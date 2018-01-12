@@ -1,0 +1,11 @@
+---
+config:
+  id: 0001
+  key: "***REMOVED***"
+  accounts:
+    - name: user1
+      passord: customPassword
+    - name: user2
+      passord: pass2
+    - name: user4
+      passord: pass4
